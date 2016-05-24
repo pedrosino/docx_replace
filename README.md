@@ -1,3 +1,8 @@
+# DISCLAIMER
+This is not my code! I forked from the original repo (https://github.com/adamalbrecht/docx_replace)
+and applied the PR at https://github.com/adamalbrecht/docx_replace/pull/14/files
+
+
 # Docx Replace
 
 This gem allows you to generate .docx files in your rails or ruby app by
